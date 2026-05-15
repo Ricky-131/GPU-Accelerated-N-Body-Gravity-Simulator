@@ -57,5 +57,3 @@ The simulator uses **Shared Memory Tiling**. To avoid the "Memory Wall," the ker
 ---
 
 Developed by [Ricky S](https://www.google.com/search?q=https://github.com/Ricky-131)
-
----
