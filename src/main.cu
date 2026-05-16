@@ -11,7 +11,7 @@
 #define SOFTENING 1e-2f
 
 int n = 4096;
-float dt = 0.0005f;
+float dt = 0.0002f;
 GLuint vbo;
 float3 *d_v;
 cudaGraphicsResource *res;
